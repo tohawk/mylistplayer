@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mylistplayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="exit">退出</string>
+	<string name="abuot">关于</string>
+	<string name="abouttext">tohawk@msn.cn</string>
+	<string name="my">历史是自己创造的</string>
+</resources>
